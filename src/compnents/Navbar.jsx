@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className="ml-5">
           <img
             className="h-auto"
-            src="/src/assets/ecomzy.png"
+            src="/ecomzy.png"
             alt="logo"
             width={144}
             height={22}
